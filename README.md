@@ -1,4 +1,4 @@
-# Realtime-Chat-App
+# Realtime-Chat-Application
 
 <h2>TODO :</h2>
 <ul>
